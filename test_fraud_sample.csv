@@ -1,0 +1,11 @@
+transaction_id,transaction_time,transaction_amount,location,device_type,channel,card_present,customer_age,merchant_category,is_fraud
+TXN1,2,7000,0,3,1,0,30,1,1
+TXN2,15,1200,1,2,1,1,45,0,0
+TXN3,22,9500,2,0,1,0,22,3,1
+TXN4,5,850,3,3,0,1,35,2,0
+TXN5,11,2000,4,1,0,1,29,4,0
+TXN6,0,9999,5,3,1,0,40,1,1
+TXN7,18,300,0,0,0,1,50,5,0
+TXN8,23,700,1,1,1,0,28,0,1
+TXN9,6,6200,2,2,1,1,33,3,1
+TXN10,9,1100,3,3,0,1,27,2,0
